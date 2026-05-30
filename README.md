@@ -183,7 +183,7 @@ O dashboard permite acompanhar:
 
 ## 1. Simulação
 
-Abrir o projeto na plataforma Wokwi.
+Abrir o projeto na plataforma Wokwi. Você pode copiar a modelagem pelo arquivo diagram.json na pasta "Wokwi" do repositório.
 
 ## 2. Programação
 
@@ -214,6 +214,8 @@ Conectar os dados aos componentes:
 - Chart
 
 ---
+
+Você pode copiar o digrama importando o arquivo "Diagrama Node-RED.json".
 
 # Resultados Obtidos
 
