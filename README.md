@@ -1,6 +1,6 @@
-# 🚦 Semáforo Inteligente com Fluxo de Trânsito
+# Semáforo Inteligente com Fluxo de Trânsito
 
-## 📖 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto apresenta um sistema de **Semáforo Inteligente baseado em Internet das Coisas (IoT)**, desenvolvido com o objetivo de otimizar o fluxo de veículos em cruzamentos urbanos. O sistema utiliza sensores ultrassônicos para detectar a presença e a proximidade de veículos em duas vias distintas, ajustando automaticamente o tempo de abertura dos semáforos conforme o fluxo identificado.
 
@@ -10,7 +10,7 @@ O projeto está alinhado ao **Objetivo de Desenvolvimento Sustentável (ODS) 11 
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 - Monitorar o fluxo de veículos em duas vias utilizando sensores ultrassônicos;
 - Adaptar automaticamente o tempo dos semáforos conforme o fluxo detectado;
@@ -20,7 +20,7 @@ O projeto está alinhado ao **Objetivo de Desenvolvimento Sustentável (ODS) 11 
 
 ---
 
-# ⚙️ Funcionamento do Sistema
+# Funcionamento do Sistema
 
 O sistema realiza leituras contínuas dos sensores ultrassônicos HC-SR04 instalados em cada via.
 
@@ -46,7 +46,7 @@ Broker MQTT (Mosquitto)
 
 ---
 
-# 💻 Software Desenvolvido
+# Software Desenvolvido
 
 O software foi desenvolvido utilizando:
 
@@ -67,7 +67,7 @@ Principais funcionalidades:
 
 ---
 
-# 🛠️ Hardware Utilizado
+# Hardware Utilizado
 
 ## Plataforma de Desenvolvimento
 
@@ -118,7 +118,7 @@ Representam os estados dos semáforos.
 
 ---
 
-# 🌐 Comunicação e Protocolos
+# Comunicação e Protocolos
 
 ## Protocolo MQTT
 
@@ -160,7 +160,7 @@ Função:
 
 ---
 
-# 📊 Monitoramento com Node-RED
+# Monitoramento com Node-RED
 
 O Node-RED é utilizado para:
 
@@ -179,7 +179,7 @@ O dashboard permite acompanhar:
 
 ---
 
-# 🔧 Como Executar o Projeto
+# Como Executar o Projeto
 
 ## 1. Simulação
 
@@ -215,7 +215,7 @@ Conectar os dados aos componentes:
 
 ---
 
-# 📈 Resultados Obtidos
+# Resultados Obtidos
 
 O sistema foi capaz de:
 
@@ -227,7 +227,7 @@ O sistema foi capaz de:
 
 ---
 
-# 🚀 Melhorias Futuras
+# Melhorias Futuras
 
 - Integração com câmeras de visão computacional;
 - Aplicação de Inteligência Artificial;
@@ -237,7 +237,7 @@ O sistema foi capaz de:
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 Yago Linos dos Anjos
 
@@ -245,7 +245,7 @@ Projeto desenvolvido para a disciplina de Objetos Inteligentes Conectados.
 
 ---
 
-# 📚 Referências
+# Referências
 
 - MQTT. Disponível em: http://mqtt.org
 - Eclipse Mosquitto. Disponível em: https://mosquitto.org
