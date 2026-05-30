@@ -3,7 +3,7 @@
 
 // ================= WIFI WOKWI =================
 const char* ssid = "Wokwi-GUEST";
-const char* password = "";
+const char* password = ""; 
 
 // ================= MQTT =================
 const char* mqtt_server = "broker.hivemq.com";
