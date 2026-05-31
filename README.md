@@ -189,14 +189,9 @@ Abrir o projeto na plataforma Wokwi. Você pode copiar a modelagem pelo arquivo 
 
 Carregar o código-fonte no ESP32.
 
-## 3. MQTT
+## 3. Instalação do broker MQTT Mosquitto
 
-Configurar o broker MQTT:
-
-```text
-Broker: broker.hivemq.com
-Porta: 1883
-```
+https://mosquitto.org/
 
 ## 4. Node-RED
 
