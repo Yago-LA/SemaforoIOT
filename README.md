@@ -183,7 +183,7 @@ O dashboard permite acompanhar:
 
 ## 1. Simulação
 
-Abrir o projeto na plataforma Wokwi. Você pode copiar a modelagem pelo arquivo diagram.json na pasta "Wokwi" do repositório.
+Abrir o projeto na plataforma Wokwi. No repositório você pode copiar o tanto código-fonte e a modelagem (pelo arquivo diagram.json) na pasta "Wokwi" do repositório. Lembre-se de adicionar a biblioteca PubSubClient no projeto do Wokwi.
 
 ## 2. Programação
 
